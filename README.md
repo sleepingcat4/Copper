@@ -1,4 +1,4 @@
-# GammaX
+# Copper
 
 ### Introduction
 
