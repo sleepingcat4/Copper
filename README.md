@@ -20,3 +20,7 @@ Python Libraries used:-
 ### Notes:
 
 Trained Model can be found in **trained model** folder and datasets can be found likewise in respective folders. 
+
+
+**Google Drive** link for the trained model as it was too big to upload on GitHub without an enterprise subscription
+https://drive.google.com/file/d/1mKQvwjpsi2uRvTqwKA3UusJomxUmSJwL/view?usp=sharing
