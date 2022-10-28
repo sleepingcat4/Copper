@@ -1,4 +1,6 @@
 # GammaX
 
-## A GPT-2 Model trained on Climate Change knowledge to help you answer questions, write articles and activist slogans about Climate Change.
+### Introduction
+
+Climate Change is happening more than ever. 
 
